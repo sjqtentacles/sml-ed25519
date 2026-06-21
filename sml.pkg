@@ -1,0 +1,4 @@
+package github.com/sjqtentacles/sml-ed25519
+
+require {
+}
